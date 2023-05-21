@@ -8,4 +8,4 @@
 1. **Python Installation**: Ensure that Python is installed on your system. If not, you can download the latest version of Python from the official website: [https://www.python.org/downloads/](https://www.python.org/downloads/).
 
 2. **Clone the Repository**: Clone this repository to your local machine using the following command:<br>
-    git clone https://github.com/ylp1455/.py-to-.exe.git
+  <code>  git clone https://github.com/ylp1455/.py-to-.exe.git </code>
