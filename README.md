@@ -8,17 +8,17 @@
 
 ## Installation
 
-1. **Python Installation**: Ensure that Python is installed on your system. If not, you can download the latest version of Python from the official website: [https://www.python.org/downloads/](https://www.python.org/downloads/).
+1. **Python Installation**: Ensure that Python is installed on your system. If not, you can download the latest version of Python from the official website: <br>[https://www.python.org/downloads/](https://www.python.org/downloads/).
 
 2. **Clone the Repository**: Clone this repository to your local machine using the following command:<br>
   <code>  git clone https://github.com/ylp1455/.py-to-.exe.git </code>
 
 
-3. **Navigate to the Project Directory**: Open a terminal or command prompt and navigate to the project directory:
+3. **Navigate to the Project Directory**: Open a terminal or command prompt and navigate to the project directory:<br>
   <code> cd .py-to-.exe</code>
   
   
-4. **Install Dependencies**: Install the required dependencies by running the following command:
+4. **Install Dependencies**: Install the required dependencies by running the following command:<br>
 <code> pip install -r requirements.txt </code>
 
 
